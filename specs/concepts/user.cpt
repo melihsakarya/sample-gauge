@@ -1,0 +1,7 @@
+
+# <username> ve <password> ile giris yap
+
+* "user" id alanina <username> yaz
+* "pass" id alanina <password> yaz
+* "formSubmit" id nesnesi varsa tikla
+* "10000" ms bekle
